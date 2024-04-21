@@ -1,0 +1,10 @@
+# CSD-DET.yaml
+train: ./data/dataset/images/train
+val: ./data/dataset/images/val
+test: ./data/dataset/images/test
+
+# number of classes
+nc: 3
+
+# class names
+names: ['Crush', 'Surplus', 'Scrape']

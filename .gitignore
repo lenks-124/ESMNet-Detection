@@ -19,7 +19,7 @@
 *.json
 *.cfg
 
-/ESMNet/data
+/ESMNet/data/dataset
 /ESMNet/.idea
 /ESMNet/__pycache__
 /ESMNet/cfg
