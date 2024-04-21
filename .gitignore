@@ -18,7 +18,7 @@
 *.data
 *.json
 *.cfg
-
+/ESMNet/.gitignore
 /ESMNet/data/dataset
 /ESMNet/.idea
 /ESMNet/__pycache__
