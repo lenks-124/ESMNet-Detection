@@ -1,1 +1,0 @@
-Readme (CSD-DET dataset)
