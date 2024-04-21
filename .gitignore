@@ -23,12 +23,10 @@
 /ESMNet/.idea
 /ESMNet/__pycache__
 /ESMNet/cfg
-/ESMNet/deploy
+
 /ESMNet/figure
 /ESMNet/inference
-/ESMNet/models
 /ESMNet/runs
-/ESMNet/scripts
 /ESMNet/tools
 /ESMNet/units
 /ESMNet/wandb
